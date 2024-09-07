@@ -1,0 +1,3 @@
+[submodule "Kubernates-Manifests"]
+	path = Kubernates-Manifests
+	url = https://github.com/MithunTechnologiesDevOps/Kubernates-Manifests.git
