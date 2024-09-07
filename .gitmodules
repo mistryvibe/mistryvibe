@@ -1,3 +1,6 @@
 [submodule "Kubernates-Manifests"]
 	path = Kubernates-Manifests
 	url = https://github.com/MithunTechnologiesDevOps/Kubernates-Manifests.git
+[submodule "java-web-app-docker"]
+	path = java-web-app-docker
+	url = https://github.com/MithunTechnologiesDevOps/java-web-app-docker.git
